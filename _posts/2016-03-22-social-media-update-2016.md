@@ -2,8 +2,8 @@
 published: true
 title: "Social Media Update 2016: 'I would like a Jekyll with a splash of Tumblr and remove the Facebook'"
 layout: post
-tags: [blog, tumblr, facebook, twitter, google+, fur-affinity, inkbunny, app.net, medium, youtube, vine, vid.me, deviantart, redbubble, update, ]
-categories: [social-media, meta]
+tags: [social-media, blog, tumblr, facebook, twitter, google+, fur-affinity, inkbunny, app.net, medium, youtube, vine, vid.me, deviantart, redbubble, update]
+categories: [meta]
 ---
 Hey guys, over the past few years I have maintained various blogs and social media accounts on platforms like Blogger, Wordpress, Medium, Facebook, Twitter, Google+ and more. They are all great platforms but overtime I switched to Google+ for everything and re-sharing those G+ posts to my other accounts. Today, I'm switching this up so keep reading if you want to know what's changing and where to look for content I share!
 
