@@ -1,6 +1,6 @@
 ---
 published: true
-title: Social Media Update 2016: "I would like a Jekyll with a splash of Tumblr and remove the Facebook"
+title: "Social Media Update 2016: 'I would like a Jekyll with a splash of Tumblr and remove the Facebook'"
 layout: post
 tags: [blog, tumblr, facebook, twitter, google+, fur-affinity, inkbunny, app.net, medium, youtube, vine, vid.me, deviantart, redbubble, update, ]
 categories: [social-media, meta]
