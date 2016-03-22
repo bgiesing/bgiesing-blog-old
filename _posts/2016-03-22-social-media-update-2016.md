@@ -28,12 +28,14 @@ As for things like Blogger, Wordpress, etc. I needed the options but I don't nee
 This brings us to Jekyll!
 
 Jekyll is good for me as I can:
+
 - Host it on my own domain (unlike everything else unless you buy a "subscription")
 - I can embed anything into a post as it's just HTML, JS, and CSS.
 - Uses Markdown (which makes making posts easily even without Internet or a fancy word processor)
 - I own all the content, not Tumblr/Medium.
 
 Also since it's hosted by GitHub Pages, I also get these advantages:
+
 - [Anybody can submit corrections or page fixes on GitHub](https://github.com/bgiesing/bgiesing.github.io)
 - I can edit anywhere I can use Git or GitHub's site or offline and publish once I get connected (More on this below!)
 - Hosted on Secure and Fast servers for entirely free
@@ -42,6 +44,7 @@ As for disadvantages? One of the main ones is the lack of Viral Spreading mentio
 
 ## Making It Easier
 As I mentioned above, it's difficult to edit on Mobile with Jekyll for a couple reasons:
+
 - Markdown is not as easy to type with a touch keyboard.
 - Git clients on Android are shitty so I would have to still have to Publish at a PC.
 
@@ -52,6 +55,7 @@ CMS (or Content Management System) is what most people are used too with Blogs. 
 
 ### Enter [TinyPress.co](https://tinypress.co/)!
 TinyPress is a Static CMS that acts as essentially as a online text editor for GitHub instead of a full platform. Compared to the above methods of GitHub's web interface or the downloadable Git client, this also:
+
 - Has a Android App (and iOS soon)
 - Can Schedule Posts
 - Make a Blog for you with some pre-defined themes
