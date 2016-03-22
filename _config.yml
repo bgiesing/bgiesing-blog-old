@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://bgiesing.github.io
+title: Brandon Giesing
+tagline: Ramblings on Tech, Music, Animation, and More
+description: My personal website and blog to showcase projects or rant about stuff.
+paginate: 5
