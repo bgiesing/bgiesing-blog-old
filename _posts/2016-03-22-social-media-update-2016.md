@@ -66,27 +66,40 @@ The site is a work in progress still so please let me know if anything can be im
 I have started this transition a while ago so some people might not notice much difference but I never actually said it and some changes have been made since.
 
 1. Google+ auto-repost is no more
-    I had my social media accounts set up to reshare all my G+ posts to others like Facebook, Twitter, App.Net, Tumblr, and more. That meant G+ was the only unique content and everything else forwarded to G+
 
+    I had my social media accounts set up to reshare all my G+ posts to others like Facebook, Twitter, App.Net, Tumblr, and more. That meant G+ was the only unique content and everything else forwarded to G+
+    
     This had issues because G+ had no API so it was hacky and a lot of those posts were about a G+ friend so people had no idea WTF I was talking about.
+    
 2. Original Content across platforms.
+
     This means that I may not be able to post as often on some sites but the posts will be better for the different types of people on each platform.
+    
 3. Dropped Platforms
+
     With so many Social networks, it would be impossible to do Original content everywhere. So with that said, I am not posting on some places so I can focus on a few key sites.
+
 4. Tumblr is no longer "my site"
+
     Before now, Tumblr has acted as my main site with my Bio/About page, list of projects, Donate links, and more being hosted there alongside the actual Tumblr blog. Now those will be here and the only pages left will be Tumblr's Ask Me Anything and Submit pages.
 
 ## What's dropped?
 - Facebook
+
     Facebook is one of my most hated social media accounts. The site and apps are buggy and I know nobody on there but family that I see often anyway. I'm going to keep the account for FB Sign-on so that might show activity but otherwise no new posts and if I do check it at all, it could be months or years apart.
+
 - App.net
+
     Never really used it anyway and only followed blogs.
+
 - Inkbunny/Fur Affinity
+
     My NSFW accounts for art and stories. These will not be deleted and I will still check often (as artists are reluctant to switch to more modern platforms) but no new posts.
 
 ## What Do I Follow?
 
 ### Blogs
+
 | Site | Contains | Avg. Post Length | 
 | --- | --- | --- |
 | Jekyll (aka BrandonGiesing.com) | Project Announcements or Technical Posts that require advanced formatting. | Long |
@@ -94,12 +107,14 @@ I have started this transition a while ago so some people might not notice much 
 | Medium | Select posts that may come from Jekyll or original to Medium | Long |
 
 ### Multi-purpose Sites
+
 | Site | Contains | Avg. Post Length |
 | --- | --- | --- |
 | Twitter | Short ramblings, Live Tweeting what I'm doing, and sharing links | Short |
 | Google+ | Topic focused posts (like Tech or Gravity Falls) using Collections and trolling friends | Medium |
 
 ### Video Sites
+
 | Site | Contains | Avg. Video Length |
 | --- | --- | --- |
 | YouTube | Anything I want (usually Mashups) | 2-8 mins |
@@ -107,6 +122,7 @@ I have started this transition a while ago so some people might not notice much 
 | Vid.me | Mostly backup for YouTube but also contains some videos that are longer than Vine's 6 secs but shorter than a minute as they loop short videos. | 0 secs to 8 mins |
 
 ### Art sites
+
 | Site | Contains |
 | --- | --- |
 | DeviantArt | Fan Art and Graphic Design |
