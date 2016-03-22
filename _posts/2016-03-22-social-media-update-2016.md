@@ -66,6 +66,7 @@ Even though I know how to set up a blog, the blog builder tool is great for begi
 The site is a work in progress still so please let me know if anything can be improved!
 
 # 2. Changes to Social Media
+
 ## What is changing?
 I have started this transition a while ago so some people might not notice much difference but I never actually said it and some changes have been made since.
 
