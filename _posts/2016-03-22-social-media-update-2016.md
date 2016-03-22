@@ -85,6 +85,7 @@ I have started this transition a while ago so some people might not notice much 
     My NSFW accounts for art and stories. These will not be deleted and I will still check often (as artists are reluctant to switch to more modern platforms) but no new posts.
 
 ## What Do I Follow?
+
 ### Blogs
 | Site | Contains | Avg. Post Length | 
 | --- | --- | --- |
